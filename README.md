@@ -1,16 +1,29 @@
 ### Hi there 👋
 
 <!--
-**federudiero/federudiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**federudiero/federudiero**
 
-Here are some ideas to get you started:
+Hello, I'm Federico Martin Rudiero Otero, Full Stack Developer with experience from two courses at Soy Henry and Coder House. My enthusiasm for learning and refining my skills continues to grow, and I am committed to advancing my career or achieving new levels of excellence in the field of programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main technologies used:
+Javascript.
+
+node.js.
+
+GIT / Github.
+
+React.js
+
+Redux.js.
+
+Express.js
+
+SQL
+
+Sequelize
+
+PostgresSQL
+
+Advanced Excel
+
+
