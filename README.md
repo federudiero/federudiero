@@ -16,4 +16,7 @@ I am a Full Stack Developer with experience from two courses at Soy Henry and Co
 - SQL
 - Sequelize
 - PostgreSQL
+
+
+📫 How to reach me. Mail: federudiero@gmail.com
 -->
