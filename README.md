@@ -7,7 +7,6 @@ I am a Full Stack Developer with experience from two courses at Soy Henry and Co
 
 - Javascript
 - Python
-- GO
 - Node.js
 - GIT / Github
 - React.js
